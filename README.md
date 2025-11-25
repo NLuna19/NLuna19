@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Nicolás Omar Luna**
 
-### 🚀 FullStack Developer | Angular • NetCore • Sql  
+### 🚀 FullStack Developer | Angular • .Net • Sql  
 Apasionado por crear interfaces limpias, accesibles y escalables. Enfocado en buenas prácticas, arquitectura sólida y performance.  
 Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**, siempre priorizando calidad sobre cantidad.
 
@@ -28,14 +28,14 @@ Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**
 <div align="center">
   <p align="center">
    <a href="#" alt="Most used languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLuna19&theme=dracula&layout=compact" />
+    <img src="https://readme-stats.clckblog.space/api?username=NLuna19&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
    </a>
    <br><br>
   </p>
   
   <p align="center">
    <a href="#" alt="github stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=NLuna19&theme=dracula&show_icons=true&layout=compact" />
+    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=NLuna19&layout=compact&theme=dracula&hide_border=true" />
    </a>
   </p>
 </div>
@@ -48,6 +48,3 @@ Si querés colaborar, revisar código o simplemente charlar sobre arquitectura f
 📧 **nluna190898@gmail.com**  
 💼 **LinkedIn:** *[Nicolas Omar Luna | Developer](https://www.linkedin.com/in/nluna190898/)*
 
----
-
-## ⭐ No olvides dejar una estrella ⭐ en los proyectos que te gusten!
