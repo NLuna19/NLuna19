@@ -2,7 +2,6 @@
 
 ### 🚀 FullStack Developer | Angular • NetCore • Sql  
 Apasionado por crear interfaces limpias, accesibles y escalables. Enfocado en buenas prácticas, arquitectura sólida y performance.  
-
 Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**, siempre priorizando calidad sobre cantidad.
 
 ---
@@ -24,23 +23,26 @@ Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**
 
 ---
 
-## 📌 Sobre mí
-✔️ Me gusta trabajar con **arquitecturas limpias**, modulares y fáciles de mantener  
-✔️ Suelo priorizar la **calidad del código**, con énfasis en patrones y reutilización  
-✔️ Disfruto de proyectos donde se mezclan **UX, frontend moderno y APIs bien diseñadas**  
-✔️ Fan del aprendizaje continuo y de mejorar cada día  
+## 📈 GitHub Stats
+
+<div align="center">
+  <p align="center">
+   <a href="#" alt="Most used languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLuna19&theme=dracula&layout=compact" />
+   </a>
+   <br><br>
+  </p>
+  
+  <p align="center">
+   <a href="#" alt="github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NLuna19&theme=dracula&show_icons=true&layout=compact" />
+   </a>
+  </p>
+</div>
 
 ---
 
-## 📂 Proyecto Destacado
-
-### 🎯 **TaskFlow — API + Cliente estilo Trello/Jira**
-Backend en **.NET 8** con Clean Architecture, autenticación JWT, EF Core y patrones modernos.  
-Frontend (en progreso) con **Angular 18 + Signals + NgRx**.
-
----
-
-## 📫 ¿Hablamos?
+## 📫 Contacto
 Si querés colaborar, revisar código o simplemente charlar sobre arquitectura frontend:
 
 📧 **nluna190898@gmail.com**  
@@ -48,5 +50,4 @@ Si querés colaborar, revisar código o simplemente charlar sobre arquitectura f
 
 ---
 
-## ⭐ Si te interesa mi trabajo…
-¡Explorá mis repos y dejame una estrella ⭐ en los proyectos que te gusten!
+## ⭐ No olvides dejar una estrella ⭐ en los proyectos que te gusten!
