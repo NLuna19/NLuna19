@@ -25,20 +25,24 @@ Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <p align="center">
-   <a href="#" alt="Most used languages">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NLuna19&theme=radical&layout=compact&hide_border=true" />
-   </a>
-   <br><br>
-  </p>
-  
-  <p align="center">
-   <a href="#" alt="github stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NLuna19&theme=NLuna19radical&layout=compact&hide_border=true" />
-   </a>
-  </p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+  <a href="#" alt="Most used languages">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NLuna19&theme=radical&hide_border=true"
+      height="180"
+    />
+  </a>
+
+  <a href="#" alt="GitHub stats">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NLuna19&theme=radical&hide_border=true"
+      height="180"
+    />
+  </a>
+
 </div>
+
 
 ---
 
