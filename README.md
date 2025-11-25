@@ -28,14 +28,14 @@ Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**
 <div align="center">
   <p align="center">
    <a href="#" alt="Most used languages">
-    <img src="https://readme-stats.clckblog.space/api?username=NLuna19&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NLuna19&theme=radical&layout=compact&hide_border=true" />
    </a>
    <br><br>
   </p>
   
   <p align="center">
    <a href="#" alt="github stats">
-    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=NLuna19&layout=compact&theme=dracula&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NLuna19&theme=NLuna19radical&layout=compact&hide_border=true" />
    </a>
   </p>
 </div>
@@ -43,7 +43,6 @@ Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**
 ---
 
 ## 📫 Contacto
-Si querés colaborar, revisar código o simplemente charlar sobre arquitectura frontend:
 
 📧 **nluna190898@gmail.com**  
 💼 **LinkedIn:** *[Nicolas Omar Luna | Developer](https://www.linkedin.com/in/nluna190898/)*
