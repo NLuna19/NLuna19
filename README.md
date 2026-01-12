@@ -42,6 +42,7 @@ Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**
 
 ## 📫 Contacto
 
-📧 **nluna190898@gmail.com**  
-💼 **LinkedIn:** *[Nicolas Omar Luna | Developer](https://www.linkedin.com/in/nluna190898/)*
+📧 **Email:** *nluna190898@gmail.com*  
+🌐 **Website:** *[nicolasomarluna.dev.ar](http://nicolasomarluna.dev.ar/)*  
+💼 **LinkedIn:** *[Nicolas Omar Luna | Developer](https://www.linkedin.com/in/nluna190898/)*  
 
