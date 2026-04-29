@@ -15,11 +15,12 @@ Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**
 - **Redux / NgRx** para manejo de estado avanzado  
 - **SAP Spartacus / SAP Composable Storefront**
 
-### **Backend & Otros**
-- **.NET Core / .NET 8** (APIs REST)  
+### **Backend & Otros**- 
+- **Java v21 / Java Spring Boot** (APIs REST)
 - **MySQL / SQL Server**  
+- **.NET Core / .NET 8**
 - **Clean Architecture**, SOLID, buenas prácticas  
-- **Git / GitHub**, CI/CD básico
+- **Git / GitHub**, CI/CD
 
 ---
 
