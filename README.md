@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Nicolás Omar Luna**
 
-### 🚀 FullStack Developer | Angular • .Net • Sql  
+### 🚀 FullStack Developer | Angular • Java • Sql  
 Apasionado por crear interfaces limpias, accesibles y escalables. Enfocado en buenas prácticas, arquitectura sólida y performance.  
 Me encanta construir experiencias **rápidas, mantenibles y bien estructuradas**, siempre priorizando calidad sobre cantidad.
 
